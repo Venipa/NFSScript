@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFSScriptLoader", "NFSScriptLoader\NFSScriptLoader.csproj", "{509C0B93-D35E-405D-970C-D7EEA5866FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFSScript", "NFSScript\NFSScript.csproj", "{55A95250-696D-4C73-8E96-593D211A5974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{509C0B93-D35E-405D-970C-D7EEA5866FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509C0B93-D35E-405D-970C-D7EEA5866FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509C0B93-D35E-405D-970C-D7EEA5866FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509C0B93-D35E-405D-970C-D7EEA5866FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A95250-696D-4C73-8E96-593D211A5974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A95250-696D-4C73-8E96-593D211A5974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A95250-696D-4C73-8E96-593D211A5974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A95250-696D-4C73-8E96-593D211A5974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5DABCE9-5B17-4F1F-9672-96778B7FE1B9}
+	EndGlobalSection
+EndGlobal
